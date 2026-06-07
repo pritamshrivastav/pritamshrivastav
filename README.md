@@ -1,10 +1,12 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Pritam+Raj;AI+Builder+%7C+Full+Stack+Developer;Hackathon+Enthusiast+%7C+Startup+Founder;Building+Products+That+Matter" />
+# Hi 👋 I'm Pritam Raj
 
-<h3>🚀 Building AI Systems, Products & Startups</h3>
+### 🚀 AI Builder • Full Stack Developer • Startup Founder
 
-<img src="https://komarev.com/ghpvc/?username=pritamshrivastav&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter\&weight=600\&size=28\&duration=3000\&pause=1000\&color=00D9FF\&center=true\&vCenter=true\&width=800\&lines=AI+Builder;Full+Stack+Developer;Hackathon+Enthusiast;Building+Products+That+Matter)](https://git.io/typing-svg)
+
+![](https://komarev.com/ghpvc/?username=pritamshrivastav\&label=Profile+Views\&color=0e75b6\&style=for-the-badge)
 
 </div>
 
@@ -34,57 +36,45 @@ Focus: AI, Web Development, Startups
 
 ### Languages
 
-![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge\&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge\&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=for-the-badge\&logo=typescript)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
 
 ### Frontend
 
-![React](https://img.shields.io/badge/React-111827?style=for-the-badge\&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-111827?style=for-the-badge\&logo=nextdotjs)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-111827?style=for-the-badge\&logo=tailwindcss)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge\&logo=tailwindcss)
 
 ### Backend & Database
 
-![Node.js](https://img.shields.io/badge/Node.js-111827?style=for-the-badge\&logo=node.js)
-![Express](https://img.shields.io/badge/Express-111827?style=for-the-badge\&logo=express)
-![MongoDB](https://img.shields.io/badge/MongoDB-111827?style=for-the-badge\&logo=mongodb)
-![Firebase](https://img.shields.io/badge/Firebase-111827?style=for-the-badge\&logo=firebase)
-
-### AI & Tools
-
-![OpenAI](https://img.shields.io/badge/OpenAI-111827?style=for-the-badge\&logo=openai)
-![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge\&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge\&logo=github)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge\&logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase)
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pritamshrivastav&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pritamshrivastav&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=pritamshrivastav&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pritamshrivastav&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=pritamshrivastav&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=pritamshrivastav&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ## 🏆 Achievements
 
-* 🥇 Hackathon Finalist
 * 🚀 Founder @ Controveda
 * 🤖 AI Product Builder
+* 🏆 Hackathon Enthusiast
 * 💻 Open Source Contributor
 * 🌐 Building Real-World Solutions
-
----
-
-## 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pritamshrivastav&theme=tokyo-night&hide_border=true" />
 
 ---
 
@@ -93,19 +83,19 @@ Focus: AI, Web Development, Startups
 <p align="center">
 
 <a href="https://www.linkedin.com/in/pritam-raj-213830272/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://www.instagram.com/pritamshrivastav_/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram" />
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 <a href="https://x.com/PritamShri68621">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x" />
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 
 <a href="mailto:pritamshrivastav1@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail" />
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
@@ -117,4 +107,5 @@ Focus: AI, Web Development, Startups
 ### ⚡ Build • Learn • Ship • Repeat
 
 </div>
+
 
